@@ -387,7 +387,7 @@ class ChartingState extends MusicBeatState
 
 		dummyArrow = new FlxSprite().makeGraphic(GRID_SIZE, GRID_SIZE);
 		var tabs = [
-			{name: "Song", label: 'Song Data'},
+			{name: "What", label: 'Song Data'},
 			{name: "Section", label: 'Section Data'},
 			{name: "Note", label: 'Note Data'},
 			{name: "Assets", label: 'Assets'}
